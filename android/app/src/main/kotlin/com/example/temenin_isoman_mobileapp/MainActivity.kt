@@ -1,4 +1,4 @@
-package com.example.temenin_isoman_mobileapp
+package com.example.slowlabapp
 
 import io.flutter.embedding.android.FlutterActivity
 
