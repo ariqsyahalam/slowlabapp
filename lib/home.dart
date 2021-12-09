@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/booking/booking.dart';
+import './screens/booking/booking.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key, required this.title}) : super(key: key);
