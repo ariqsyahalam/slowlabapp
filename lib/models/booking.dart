@@ -1,16 +1,13 @@
 import 'dart:convert';
 
-import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
-
 class Booking {
   Booking({
-    required String this.email,
-    required String this.namaLengkap,
-    required String this.nomorWa,
-    required String this.lokasi,
-    required DateTime this.tanggal,
-    required String this.jenis,
+    required this.email,
+    required this.namaLengkap,
+    required this.nomorWa,
+    required this.lokasi,
+    required this.tanggal,
+    required this.jenis,
   });
 
   final String email;
