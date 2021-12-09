@@ -30,13 +30,19 @@ Dari temuan-temuan yang kami dapati, kami mencoba untuk memberikan solusi melalu
 
 ## Daftar modul yang akan diimplementasikan
 
-- Home
-- Lokasi
-- Authentication
-- Booking
-- Forum
-- Cek Hasil Tes
-- Reservasi Tes
+- Home (Muhammad Satrio)
+- Lokasi (Cynthia Philander)
+- Authentication (Muhammad Hilmy)
+- Booking (Reyhan Ariq)
+- Forum (Ghaitsa Maulidina)
+- Cek Hasil Tes (Jasmine Ainal)
+- Reservasi Tes (Adhin Abdallah)
+
+## Langkah Integrasi ke Web Service
+1. Mengimplementasikan flutter support authentication dengan library Dart
+2. Mengimplementasikan JsonResponse atau JSON Serializer Django pada backend Django.
+3. Mengimplementasikan widget flutter sesuai dengan desain website yang di konversikan kedalam tampilan mobile.
+4. Mengintegrasikan frontend-backend website dan flutter dengan menggunakan konsep asynchronous HTTP.
 
 ## Persona
 
