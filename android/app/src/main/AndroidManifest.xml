@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.temenin_isoman_mobileapp">
+    package="com.example.slowlabapp">
    <application
-        android:label="temenin_isoman_mobileapp"
+        android:label="slowlabapp"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
